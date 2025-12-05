@@ -1,0 +1,140 @@
+﻿# Visual Studio & Visual Studio Code
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.vs/
+*.vscode/
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.dbmdl
+*.jfm
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+*.pubxml
+*.publishproj
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# .NET Core & ASP.NET Core
+*.dll
+*.exe
+*.pdb
+*.cache
+*.json
+*.xml
+*.config
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+*.scc
+*.cachefile
+*.vsmdi
+*.testsettings
+*.coverage
+*.coveragexml
+*.resharper
+*.ncrunch*
+*.dotCover
+*.nupkg
+*.snk
+*.snupkg
+*.sqlite
+*.sqlite3
+*.db
+*.mdf
+*.ldf
+
+# NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+NuGet.Config
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+*.iml
+modules.xml
+*.ipr
+*.iws
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Entity Framework Migrations
+[Mm]igrations/*_*.cs
+[Mm]igrations/*.*.Designer.cs
+
+# Azure & Local Secrets
+secrets.json
+local.settings.json
+appsettings.local.json
+
+# Node.js (اگه پروژه Blazor یا MAUI داری)
+node_modules/
+wwwroot/lib/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# VS Code specific
+.history/
+.ionide/
+
+# MAUI specific
+*.apk
+*.aab
+*.ipa
+*.mandroid
+*.msi
+*.nupkg
+*.appx
+*.appxbundle
+
+# End of file
